@@ -1,0 +1,74 @@
+[
+    {
+        "user_id": 1,
+        "name": "Ann",
+        "email": "ann@gmail.com",
+        "password": "123456"
+    },
+    {
+        "user_id": 2,
+        "name": "Bob",
+        "email": "bob@gmail.com",
+        "password": "124578"
+    },
+    {
+        "user_id": 3,
+        "name": "Harry",
+        "email": "harry@gmail.com",
+        "password": "mypassword45"
+    },
+    {
+        "user_id": 4,
+        "name": "New user",
+        "email": "email@mail.com",
+        "password": "newpass2222"
+    },
+    {
+        "user_id": 5,
+        "name": "Maria",
+        "email": "maria@mail.com",
+        "password": "$2b$12$dN2Je783sH7w4RRrsntMIOuSZGB2YvCMGmaluJJ/.mlvVUew11CaG"
+    },
+    {
+        "user_id": 6,
+        "name": "Sam",
+        "email": "sam@mail.com",
+        "password": "sam12345"
+    },
+    {
+        "user_id": 7,
+        "name": "Nail",
+        "email": "nail@gmail.com",
+        "password": "nail1234"
+    },
+    {
+        "user_id": 8,
+        "name": "Mike",
+        "email": "mike@gmail.com",
+        "password": "$2b$12$rPKGkLt69b/lxJSRkutuxu6rh/rjxZIGizMsd6Rhai1CxiFyBTdMC"
+    },
+    {
+        "user_id": 9,
+        "name": "Naneh",
+        "email": "naneh@gmail.com",
+        "password": "$2b$12$fVq/JsbigQGJu577h7I9a.kSr2gXN3WLb60N5Y2Id8R9PFLghr112"
+    },
+    {
+        "user_id": 10,
+        "name": "Marianna",
+        "email": "marianna@gmail.com",
+        "password": "$2b$12$OTMvQ1MKeAuWt3loMPVfB.aNhCZPv8kZOw.d7SDlUhPnEEJZgo9OW"
+    },
+    {
+        "user_id": 11,
+        "name": "Name",
+        "email": "name@gmail.com",
+        "password": "$2b$12$XAMMTRUO77QIVCA8ji3JZuKlaYDlgyVCBNBVFXD9DkGXM7Aj5tR5y"
+    },
+    {
+        "user_id": 12,
+        "name": "Lana",
+        "email": "lana@gmail.com",
+        "password": "$2b$12$UXo/IGnZvkDiDI.a9YNLvu3Tm0.XNsbNNNhzFFplSxA1WuG7fZH2K"
+    }
+]
